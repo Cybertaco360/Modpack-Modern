@@ -256,6 +256,9 @@
         },
         "probejs": {
             "export": false
+        },
+        "create-broken-bad": {
+            "side": "BOTH"
         }
     }
 }
