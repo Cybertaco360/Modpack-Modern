@@ -257,7 +257,7 @@
         "probejs": {
             "export": false
         },
-        "create-broken-bad": {
+        "createbrokenbadd": {
             "side": "BOTH"
         }
     }
